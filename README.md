@@ -10,7 +10,7 @@
 For most devices, it is recommended to install the **arm64-v8a** version of the apk
 
 - Download the latest stable version from [GitHub releases](https://github.com/VandersonQk/KuroReaderReleases/releases/latest)
-- If you purchased the Pro version from the Play Store, you can access the [Activation Key Manager](https://reader.kurotoshiro.com.br/license_manager/) to create an activation key
+- If you purchased the Pro version from the Play Store, you can access the [Activation Key Manager](https://reader.kurotoshiro.com.br/license_manager/) to create an activation key ([Video demonstration](https://www.youtube.com/watch?v=KsDLM-k7Q2E))
 - If the **arm64-v8a** version doesn't install on your device, use the **universal** apk
 - For emulators and x86/x86_64 devices install the **universal** apk
 - Access the [FAQ](faq.md) for more information on key activation
